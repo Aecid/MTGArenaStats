@@ -1,6 +1,9 @@
 # MTGArenaStats
 Parses latest htm logs in Logs folder of MTG Arena
 
+# DUE TO CHANGES IN RELEASED VERSION STATISTICS AREN'T AVAILABLE ANYMORE. :( 
+
+
 Put the exe to MTGArena logs folder
 (usually C:\Users\{USERNAME}\Documents\MTGA\Logs) and run. Will not work if there are no .htm files in folder. :)
 
